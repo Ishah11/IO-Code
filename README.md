@@ -1,6 +1,6 @@
 # Astronomical Data Analysis
 
-This repository showcases Python scripts for processing astronomical observation data, performing brightness calculations, and generating visualizations. It demonstrates skills in data preprocessing, computational analysis, and scientific graphing.
+This repository showcases Python scripts for processing astronomical observation data, performing brightness calculations, and generating visualizations. It demonstrates skills in data preprocessing, computational analysis, and scientific graphing. This was created to calculate volcanic activity using telescoping runs on NASA's Infrared Telescope (IRTF).
 
 IRTF Data Analysis:
 
