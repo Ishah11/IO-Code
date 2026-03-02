@@ -4,14 +4,13 @@ This repository showcases Python scripts for processing astronomical observation
 
 IRTF_Data_Analysis:
 
-imagesubtract.py # Main code for nightly brightness calculations
-organize.py # Organizes filenames, object names, airmass, and other observational metadata
-UJCgraphs.py # Generates graphs for Uta, Janus, and Chalbee datasets
-graphing.py # Comparative graphs for Uta and Janus using Dekleer and IRTF data
-othergraphs.py # Graphs for additional volcanoes or features
-standard_stars.txt # Standard star magnitudes
-small_observation_data.xlsx # Reduced dataset for testing and demonstration
-
+- imagesubtract.py # Main code for nightly brightness calculations
+- organize.py # Organizes filenames, object names, airmass, and other observational metadata
+- UJCgraphs.py # Generates graphs for Uta, Janus, and Chalbee datasets
+- graphing.py # Comparative graphs for Uta and Janus using Dekleer and IRTF data
+- othergraphs.py # Graphs for additional volcanoes or features
+- standard_stars.txt # Standard star magnitudes
+- small_observation_data.xlsx # Reduced dataset for testing and demonstration
 
 ## Technologies & Tools
 
